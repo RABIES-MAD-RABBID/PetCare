@@ -21,7 +21,7 @@ include("partials/connect.php");
 						</a>
 						<?php }else{ ?> 
 						
-						<a href="customerforms.php" class="flex-c-m trans-04 p-lr-25">
+						<a href="customerlogin.php" class="flex-c-m trans-04 p-lr-25">
 							login
 						</a>
 					<?php } ?>
